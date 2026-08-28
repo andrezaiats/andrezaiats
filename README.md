@@ -1,19 +1,26 @@
 ## Hey, I'm André
 
-I work primarily with **machine learning applied to quantitative finance** — feature selection via block permutation importance, multi-objective gradient boosting, out-of-sample validation with statistical rigor (bootstrap CIs, effect sizes, significance testing), and end-to-end backtesting infrastructure.
+Security researcher, reverse engineer, and builder. I break things open to understand how they work, then build something better — and ship it.
 
-Outside of that, I write **performance-critical C** — data compressors using context-mixing techniques and cache-friendly parallel sorters for Linux.
+### What I do
 
-I build **products end-to-end** — SaaS applications, API services, chatbot integrations, and business automation tools. From backend architecture to deployment.
+**Reverse engineering & security research** — firmware cryptanalysis, ARM/DSP binary analysis, protocol reconstruction, and building emulators from the ground up. I crack proprietary systems and turn the findings into open-source tools.
 
-I also build **AI-powered developer tooling** — CLI tools that integrate LLMs into engineering workflows.
+**Machine learning & quantitative finance** — feature selection via block permutation importance, multi-objective gradient boosting, out-of-sample validation with statistical rigor (bootstrap CIs, effect sizes), and end-to-end backtesting infrastructure.
 
-Other interests include game server emulation (C#) and retro game development.
+**Systems programming** — performance-critical C/C++, real-time audio DSP, JIT compilation, and low-level optimization on Linux.
+
+**Products & AI tooling** — SaaS applications, API services, AI-powered developer tools, and business automation. From architecture to deployment.
+
+### Featured project
+
+**[Zamphenom](https://github.com/andrezaiats/zamphenom)** — the first open-source emulator that runs real Kemper Profiler firmware as a real-time VST plugin. Built solo in one month: cracked the firmware encryption, reverse-engineered both the ARM host and the Motorola DSP56720 signal processor, fixed bugs in an established emulator engine by cross-checking against the chip manufacturer's own simulator, and wired it all into a DAW plugin.
 
 ### Stack
 
-Python · C · TypeScript · C# · LightGBM · Node.js · FastAPI
+Python · C · C++ · TypeScript · C# · LightGBM · CMake · Ghidra · iPlug2
 
 ### Get in touch
 
-Open to conversations about quantitative research, ML infrastructure, or systems-level optimization.
+Open to conversations about security research, reverse engineering, quantitative ML, or systems-level work.
+
