@@ -18,7 +18,7 @@ Security researcher, reverse engineer, and builder. I break things open to under
 
 ### Stack
 
-Python · C · C++ · ASM (ARM/DSP56k) · Perl · CUDA · TypeScript · C# · TensorFlow · LightGBM · CMake · Ghidra · iPlug2
+Python · C · C++ · ASM (x86/x64, ARM, DSP56k) · Perl · CUDA · TypeScript · C# · TensorFlow · LightGBM · CMake · Ghidra · iPlug2
 
 ### Get in touch
 
