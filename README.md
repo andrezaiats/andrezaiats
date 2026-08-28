@@ -14,11 +14,11 @@ Security researcher, reverse engineer, and builder. I break things open to under
 
 ### Featured project
 
-**[Zamphenom](https://github.com/andrezaiats/zamphenom)** — the first open-source emulator that runs real Kemper Profiler firmware as a real-time VST plugin. Built solo in one month: cracked the firmware encryption, reverse-engineered both the ARM host and the Motorola DSP56720 signal processor, fixed bugs in an established emulator engine by cross-checking against the chip manufacturer's own simulator, and wired it all into a DAW plugin.
+**[Zamphenom](https://github.com/andrezaiats/zamphenom)** — the first open-source emulator that runs real Kemper Profiler firmware as a real-time VST plugin. Built solo in one month: cracked the firmware encryption, reverse-engineered both the ARM host and the Motorola DSP56720 signal processor, contributed fixes to an established open-source emulator engine, and wired it all into a DAW plugin.
 
 ### Stack
 
-Python · C · C++ · TypeScript · C# · LightGBM · CMake · Ghidra · iPlug2
+Python · C · C++ · ASM (ARM/DSP56k) · Perl · CUDA · TypeScript · C# · TensorFlow · LightGBM · CMake · Ghidra · iPlug2
 
 ### Get in touch
 
