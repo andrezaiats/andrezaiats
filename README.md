@@ -18,6 +18,8 @@ Security researcher, reverse engineer, and builder. I break things open to under
 
 **[Snes9x-Z](https://github.com/andrezaiats/snes9x-Z)**: a performance-optimized fork of the Snes9x SNES emulator core, bit-exact against upstream, built around a from-scratch dual-core PPU rendering architecture. +61% mean frame-time gain across a corpus of commercial games, every one validated byte-for-byte against the original output.
 
+**[DevRouter](https://github.com/andrezaiats/devrouter)** ([model](https://huggingface.co/aipster/DevRouter-1.5B)) — a teacher-distilled 1.5B prompt router for dev-tool pipelines: classifies intent/complexity and routes each prompt to the cheapest model tier that can handle it, emitting structured JSON. End-to-end from data labeling to quantized (GGUF) deployment.
+
 ### Stack
 
 Python · C · C++ · ASM (x86/x64, ARM, DSP56k) · Perl · CUDA · TypeScript · C# · TensorFlow · LightGBM · CMake · Ghidra · iPlug2
